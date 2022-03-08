@@ -1,7 +1,7 @@
 print('Number Guessing Game')
 print('Guess the correct number from 1 to 9.You have 5 guesses with you.')
 n=2
-print('correct number is 2')
+#print('correct number is 2')
 guess=0
 while guess<5:
     g1=int(input('Enter Your Guess: '))
